@@ -1,4 +1,0 @@
-# NovaTurny
-# NovaTurny
-# NovaTurny
-# WebGIS
