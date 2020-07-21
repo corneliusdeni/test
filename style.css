@@ -1,0 +1,69 @@
+/* one, two, three untuk div*/
+.one {
+	width: 650px;
+	height:90px;
+	position : fixed;
+	opacity: 0.6;
+	background: green;
+	top: 9px;
+	left: 50px;
+	z-index: 500;
+}
+
+.two {
+	width: 10px;
+	height: 50px;
+	position : fixed;
+	background: blue;
+	top: 9px;
+	left: 50px;
+	z-index: 600;
+}
+
+
+.three {
+	width: 16%;
+	height:36px;
+	position : fixed;
+	opacity: 0.6;
+	background: green;
+	top: 10px;
+	right: 50px;
+	z-index: 500;
+}
+.four {
+	width: 400px; 
+	height: 40px;
+	position : fixed;
+	bottom: 5px;
+	right: 0;
+	z-index: 800;
+}
+
+/* satu, dua, tiga untuk text*/
+.number1 {
+	font-family: arial;
+	color: white;
+	margin-left: 120px;
+	margin-top: -15px;
+	line-height: 55px;
+	font-weight: bold;
+}
+
+.number2 {
+	font-family: arial;
+	color: white;
+	margin-left: 85px;
+	margin-top: 50px;
+	line-height: 35px;
+	font-weight: bold;
+}
+
+.number3 {
+	font-family: arial;
+	color: green;
+	margin-left: 100px;
+	margin-top: 50px;
+	line-height: 10px;
+	font-weight: bold;
+}
